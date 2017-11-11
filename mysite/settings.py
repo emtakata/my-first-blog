@@ -26,7 +26,7 @@ SECRET_KEY = '!^odzo(s6m-0)fpe794nctik(*%w0+)3wu#aw+#m#q)6(_$u-q'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'emtakata/pythonanywhere.com'
+    'emtakata.pythonanywhere.com',
 ]
 
 
