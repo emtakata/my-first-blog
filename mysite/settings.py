@@ -25,7 +25,9 @@ SECRET_KEY = '!^odzo(s6m-0)fpe794nctik(*%w0+)3wu#aw+#m#q)6(_$u-q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'emtakata/pythonanywhere.com'
+]
 
 
 # Application definition
